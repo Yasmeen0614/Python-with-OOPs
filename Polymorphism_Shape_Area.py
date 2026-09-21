@@ -5,7 +5,7 @@ class shape:
 class circle:
     def area(self):
         r = 5
-        print("Circle area: :",3.14*r*r)
+        print("Circle area: ",3.14*r*r)
         
 class rectangle:
     def area(self):
